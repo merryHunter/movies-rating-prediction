@@ -5,4 +5,8 @@ polars
 matplotlib
 numpy
 pyarrow
-pandas
+
+torch
+transformers
+protobuf
+sentence-piece
